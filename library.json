@@ -1,0 +1,22 @@
+{
+  "name": "Termikus",
+  "keywords": "thermostat, Sonoff TH, ESP8266, webserver, API, web",
+  "description": "Alternative DYI thermostat firmware for Sonoff TH hardware or other ESP8266 based platforms",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PiotrPeszko/Termikus"
+  },
+  "version": "1.11e",
+  "authors": {
+    "name": "Piotr Peszko",
+    "url": "https://termikus.pl"
+  },
+  "exclude": [
+    "fuzzing",
+    "scripts",
+    "test",
+    "third-party"
+  ],
+  "frameworks": "arduino", 
+  "platforms": "Sonoff TH, ESP8266"
+}
