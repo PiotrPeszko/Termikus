@@ -19,4 +19,5 @@ Backlog
 
 
 Support the project:
-paypal.me/PiotrPeszko
+
+http://paypal.me/PiotrPeszko
