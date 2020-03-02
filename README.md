@@ -16,3 +16,7 @@ Backlog
 
  - HomeCenter Time Synchronization
  - Power Calulations
+
+
+Support the project:
+paypal.me/PiotrPeszko
