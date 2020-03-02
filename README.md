@@ -22,4 +22,4 @@ The manual for the software is available at http://termikus.pl
 
 Support the project:
 
-http://paypal.me/PiotrPeszko
+https://paypal.me/PiotrPeszko
