@@ -17,7 +17,7 @@ Backlog
  - HomeCenter Time Synchronization
  - Power Calulations
 
-The manual for the software is available at http://termikus.pl
+The manual for the software is available at http://termikus.peszko.net
 
 
 Support the project:
